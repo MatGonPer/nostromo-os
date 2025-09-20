@@ -1,0 +1,3 @@
+/home/matheus/projetos/cpp_workspace/nostromo_os/build/CMakeFiles/NostromoOS.dir
+/home/matheus/projetos/cpp_workspace/nostromo_os/build/CMakeFiles/edit_cache.dir
+/home/matheus/projetos/cpp_workspace/nostromo_os/build/CMakeFiles/rebuild_cache.dir

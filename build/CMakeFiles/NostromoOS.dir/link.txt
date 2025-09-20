@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/NostromoOS.dir/link.d CMakeFiles/NostromoOS.dir/src/main.cpp.o -o NostromoOS  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
