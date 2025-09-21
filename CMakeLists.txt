@@ -7,6 +7,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(SFML 3 COMPONENTS Graphics Window System Audio REQUIRED)
 
-add_executable(NostromoOS src/main.cpp)
+add_executable(NostromoOS
+src/main.cpp
+src/Terminal.cpp
+src/Application.cpp)
 
 target_link_libraries(NostromoOS PRIVATE sfml-graphics sfml-window sfml-system sfml-audio)
