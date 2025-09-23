@@ -5,7 +5,6 @@ Application::Application() : window_(sf::VideoMode({640, 480}), "Nostromo OS", s
     const int x_position = (desktop_mode.size.x - window_.getSize().x) / 2;
     const int y_position = (desktop_mode.size.y - window_.getSize().y) / 2;
     window_.setPosition({x_position, y_position});
-
     window_.setVerticalSyncEnabled(true);
 }
 
